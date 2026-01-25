@@ -13,3 +13,5 @@ Disclaimer
 
 Much of the reviews are my opinion. This catalog may or may not be as complete,
 accurate, or rigorous as expected.
+
+All photos and recordings are taken by me.

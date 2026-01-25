@@ -6,4 +6,7 @@ UIUC Piano Catalog
    :hidden:
 
    smith/index.rst
+   musicbldg/index.rst
+   krannert/index.rst
+   misc/index.rst
    about.rst
