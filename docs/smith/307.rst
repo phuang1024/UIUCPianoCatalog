@@ -1,0 +1,15 @@
+Rm 307
+------
+
+Playability: 3.
+
+Room 307, third floor South practice rooms. Steinway Model M.
+
+Voicing is even. Can play quietly with good tone. Notes tend to become harsh
+quickly as volume increases. Loud tone is good.
+
+*Last updated: Jan 25, 2026*
+
+.. audio:: ../_static/audio/smith/307.mp3
+
+.. image:: ../_static/img/smith/307.jpg
