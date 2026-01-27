@@ -6,7 +6,8 @@ Urbana-Champaign.
 
 Descriptions, images, and recordings of pianos are provided. The condition of
 the piano at the time of writing is documented. Because most pianos are in tune,
-the voicing of the piano (i.e. tone) is the main factor in quality.
+the tone is the main factor in quality. Tone is influenced by voicing,
+age/condition, and piano size.
 
 
 Playability index
