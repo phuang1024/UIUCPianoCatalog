@@ -9,6 +9,9 @@ the piano at the time of writing is documented. Because most pianos are in tune,
 the tone is the main factor in quality. Tone is influenced by voicing,
 age/condition, and piano size.
 
+The source code for this website is available at
+https://github.com/phuang1024/UIUCPianoCatalog
+
 
 Playability index
 -----------------

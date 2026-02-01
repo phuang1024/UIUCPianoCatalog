@@ -20,4 +20,6 @@ The recording below has no reverb added; all reverb is due to the room.
 
 .. audio:: ../_static/audio/smith/MemRm.mp3
 
+   Rach 3:
+
 .. image:: ../_static/img/smith/MemRm.jpg
