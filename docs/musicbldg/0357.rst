@@ -1,0 +1,14 @@
+Rm 0357
+-------
+
+Playability: 1.
+
+Yamaha upright.
+
+*Last updated: Feb 4, 2026*
+
+.. audio:: ../_static/audio/musicbldg/0357.mp3
+
+   Liszt Petrarch Sonnet 1:
+
+.. image:: ../_static/img/musicbldg/0357.jpg
