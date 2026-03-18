@@ -33,4 +33,4 @@ html_theme = 'furo'
 html_static_path = ['_static']
 html_css_files = ['style.css']
 
-html_title = "UIUC Piano Catalog"
+html_title = "Piano Catalog"

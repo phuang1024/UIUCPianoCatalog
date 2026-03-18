@@ -3,7 +3,7 @@ Rm 341
 
 Playability: 4.
 
-Steinway Model M?.
+Steinway Model M.
 
 Most notes are in tune. Tone for light and medium playing is great. Low notes
 ring well, and melody notes are clear. When playing loud, low notes sound dull
@@ -15,4 +15,4 @@ and high notes harsh, but that is expected of a small piano.
 
    Composition:
 
-.. .. image:: ../_static/img/smith/336.jpg
+.. image:: ../_static/img/smith/341.jpg
