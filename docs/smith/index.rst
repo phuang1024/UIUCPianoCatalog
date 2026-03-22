@@ -9,6 +9,8 @@ Smith Memorial Hall
 
 .. include:: 319.rst
 
+.. include:: 322.rst
+
 .. include:: 332.rst
 
 .. include:: 336.rst

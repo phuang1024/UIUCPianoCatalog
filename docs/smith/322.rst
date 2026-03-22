@@ -1,0 +1,17 @@
+Rm 322
+------
+
+Playability: 2.
+
+Yamaha upright.
+
+Tuning is good. Action is very soft, so playing softly is easy but cannot play
+loudly. Soft tone is good.
+
+*Last updated: Mar 22, 2026*
+
+.. audio:: ../_static/audio/smith/322.mp3
+
+   She's a rainbow:
+
+.. image:: ../_static/img/smith/322.jpg
